@@ -16,7 +16,7 @@
 
 ### 💻 Languages
 
-* Java
+* Java(core)
 * Python
 * JavaScript
 
