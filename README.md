@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 BTech (3rd Year) student passionate about building real-world applications
-* 💡 Currently focused on **MERN Stack Development** and **Android App Development (Java)**
+* 🎓 B-Tech student passionate about building real-world applications
+* 💡 Currently focused on **Web Development** and **Android App Development (Java)**
 * 📊 Exploring **Machine Learning & Data Science concepts**
 
 ---
@@ -55,7 +55,6 @@
 ### 🌐 Portfolio Website
 
 * Personal portfolio showcasing projects and skills
-* Built using MERN stack
 
 ---
 
