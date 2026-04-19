@@ -176,6 +176,9 @@ section {
   margin: auto 0;
 }
 
+#img123{
+  border-radius: 48%;
+}
 .section__text {
   align-self: center;
   text-align: center;
